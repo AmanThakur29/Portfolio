@@ -1,0 +1,2608 @@
+header.featured-area h3 {
+    color: #eee;
+    margin-bottom: 30px;
+}
+
+.home .featured-area .container {
+    max-width: 800px;
+}
+
+.home .featured-area .geodir-categories-container {
+    margin-top: 50px;
+}
+
+div#sd-home-scroll {
+    font-size: 3rem;
+}
+
+.emaillist form input[type=submit] {
+    width: 40px;
+    height: 40px;
+    border: none;
+    background-color: transparent;
+    font-size: 0;
+    border-radius: 0;
+    background-image: url(https://agentlistingservice.com/wp-content/uploads/2024/02/icon-arrow.png);
+    background-position: center;
+    background-size: 31px;
+    background-repeat: no-repeat;
+}
+
+.fa-classic,
+.fa-regular,
+.fa-solid,
+.far,
+.fas {
+    font-family: "Font Awesome 5 Pro" !important;
+}
+
+.dashboard-nav .bp-navs ul li {
+    float: unset;
+    margin-left: 20px;
+}
+
+.dashboard-nav .bp-navs .bp-navs ul {
+    padding: 17px;
+}
+
+.dashboard-nav .bp-navs ul li a {
+    display: flex;
+    align-items: center;
+    padding: 15px 15px 15px 25px;
+    position: relative;
+    font-size: 19px;
+    font-weight: normal;
+    color: #93989a;
+    text-transform: capitalize;
+}
+
+.dashboard-nav .bp-navs ul li#xprofile-personal-li a {
+    background-image: url('https://agentlistingservice.com/wp-content/uploads/2024/02/1.png');
+    background-position: left;
+    background-repeat: no-repeat;
+    padding-left: 35px;
+}
+
+.dashboard-nav .bp-navs ul li#settings-personal-li a {
+    background-image: url('https://agentlistingservice.com/wp-content/uploads/2024/02/13.png');
+    background-position: left;
+    background-repeat: no-repeat;
+    padding-left: 35px;
+}
+
+.dashboard-nav .bp-navs ul li#activity-personal-li a {
+    background-image: url('https://agentlistingservice.com/wp-content/uploads/2024/02/3.png');
+    background-position: left;
+    background-repeat: no-repeat;
+    padding-left: 35px;
+}
+
+.dashboard-nav .bp-navs ul li#notifications-personal-li a {
+    padding-left: 35px;
+}
+
+.dashboard-nav .bp-navs ul li#notifications-personal-li a:before {
+    position: absolute;
+    font-family: 'Font Awesome 5 Pro';
+    left: 10px;
+    content: "\f0f3";
+}
+
+.dashboard-nav .bp-navs ul li#reviews-personal-li a {
+    padding-left: 35px;
+}
+
+.dashboard-nav .bp-navs ul li#reviews-personal-li a:before {
+    position: absolute;
+    font-family: 'Font Awesome 5 Pro';
+    left: 10px;
+    content: "\f086";
+}
+
+.dashboard-nav .bp-navs ul li#messages-personal-li a {
+    padding-left: 35px;
+}
+
+.dashboard-nav .bp-navs ul li#messages-personal-li a:before {
+    position: absolute;
+    font-family: 'Font Awesome 5 Pro';
+    left: 10px;
+    content: "\f0e0";
+}
+
+.dashboard-nav .bp-navs ul li#membership-personal-li a {
+    background-image: url('https://agentlistingservice.com/wp-content/uploads/2024/02/4.png');
+    background-position: left;
+    background-repeat: no-repeat;
+    padding-left: 35px;
+}
+
+
+.dashboard-nav .bp-navs ul li#friends-personal-li a {
+    background-image: url('https://agentlistingservice.com/wp-content/uploads/2024/02/5.png');
+    background-position: left;
+    background-repeat: no-repeat;
+    padding-left: 35px;
+}
+
+.dashboard-nav .bp-navs ul li#groups-personal-li a {
+    background-image: url('https://agentlistingservice.com/wp-content/uploads/2024/02/6.png');
+    background-position: left;
+    background-repeat: no-repeat;
+    padding-left: 35px;
+}
+
+.dashboard-nav .bp-navs ul li#gdbuddypress-nav-listings-personal-li a {
+    background-image: url('https://agentlistingservice.com/wp-content/uploads/2024/02/7.png');
+    background-position: left;
+    background-repeat: no-repeat;
+    padding-left: 35px;
+}
+
+.dashboard-nav .bp-navs ul li#gdbuddypress-nav-favorites-personal-li a {
+    background-image: url('https://agentlistingservice.com/wp-content/uploads/2024/02/8.png');
+    background-position: left;
+    background-repeat: no-repeat;
+    padding-left: 35px;
+}
+
+
+.dashboard-nav .bp-navs ul li#media-personal-li a {
+    padding-left: 35px;
+}
+
+.dashboard-nav .bp-navs ul li#media-personal-li a:before {
+    position: absolute;
+    font-family: 'Font Awesome 5 Pro';
+    left: 10px;
+    content: "\f03e";
+}
+
+
+.dashboard-nav .bp-navs ul li#forums-personal-li a {
+    background-image: url('https://agentlistingservice.com/wp-content/uploads/2024/02/10.png');
+    background-position: left;
+    background-repeat: no-repeat;
+    padding-left: 35px;
+}
+
+
+.dashboard-nav .bp-navs ul li#gdbuddypress-nav-reviews-personal-li a {
+    background-image: url('https://agentlistingservice.com/wp-content/uploads/2024/02/9.png');
+    background-position: left;
+    background-repeat: no-repeat;
+    padding-left: 35px;
+}
+
+
+.dashboard-nav .bp-navs ul li#invites-personal-li a {
+    background-image: url('https://agentlistingservice.com/wp-content/uploads/2024/02/11.png');
+    background-position: left;
+    background-repeat: no-repeat;
+    padding-left: 35px;
+}
+
+
+#buddypress div#item-header-cover-image h2 a,
+#buddypress div#item-header-cover-image h2 {
+    color: #000 !important;
+    text-shadow: unset;
+}
+
+.users-header #item-header-avatar:hover .link-change-overlay {
+    background-color: unset;
+}
+
+div#item-body ul.subnav li a {
+    font-size: 18px;
+    font-weight: normal;
+    color: #222;
+    text-transform: capitalize;
+}
+
+div#item-body nav {
+    border-top: unset;
+    margin-bottom: 30px;
+}
+
+.buddypress-wrap .item-body .screen-heading {
+    margin-bottom: 24px;
+}
+
+div#item-body h3 {
+    font-size: 36px !IMPORTANT;
+    font-weight: 600;
+    line-height: 1.29;
+    color: #222;
+}
+
+.bp-subnavs li.current a,
+.bp-subnavs li.selected a {
+    color: #333;
+    font-weight: 600;
+}
+
+.buddypress-wrap .profile.edit .editfield {
+    background: unset;
+    border: unset;
+}
+
+.buddypress-wrap .profile input#profile-group-edit-submit {
+    width: auto;
+    border-radius: 10px;
+    background-color: #1057a1;
+    text-align: center;
+    font-weight: 400;
+    color: #fff;
+    padding: 10px 15px;
+    transition: 0.3s ease-in-out;
+}
+
+.bp-avatar input#bp-browse-button {
+    width: auto;
+    border-radius: 10px;
+    background-color: #1057a1;
+    text-align: center;
+    font-weight: 400;
+    color: #fff;
+    padding: 10px 15px;
+    transition: 0.3s ease-in-out;
+}
+
+.bp-avatar button#bp-delete-avatar {
+    width: auto;
+    border-radius: 10px;
+    background-color: #1057a1;
+    text-align: center;
+    font-weight: 400;
+    color: #fff;
+    padding: 10px 15px;
+    transition: 0.3s ease-in-out;
+}
+
+
+.bp-cover-image input#bp-browse-button {
+    width: auto;
+    border-radius: 10px;
+    background-color: #1057a1;
+    text-align: center;
+    font-weight: 400;
+    color: #fff;
+    padding: 10px 15px;
+    transition: 0.3s ease-in-out;
+}
+
+.buddypress .buddypress-wrap input[type=submit] {
+    width: auto;
+    border-radius: 10px;
+    background-color: #1057a1;
+    text-align: center;
+    font-weight: 400;
+    color: #fff;
+    padding: 10px 15px;
+    transition: 0.3s ease-in-out;
+}
+
+div#bp-delete-avatar-container p {
+    margin-bottom: 20px;
+}
+
+.buddypress-wrap .standard-form .groups-members-search input[type=search],
+.buddypress-wrap .standard-form .groups-members-search input[type=text],
+.buddypress-wrap .standard-form [data-bp-search] input[type=search],
+.buddypress-wrap .standard-form [data-bp-search] input[type=text],
+.buddypress-wrap .standard-form input[type=color],
+.buddypress-wrap .standard-form input[type=date],
+.buddypress-wrap .standard-form input[type=datetime-local],
+.buddypress-wrap .standard-form input[type=datetime],
+.buddypress-wrap .standard-form input[type=email],
+.buddypress-wrap .standard-form input[type=month],
+.buddypress-wrap .standard-form input[type=number],
+.buddypress-wrap .standard-form input[type=password],
+.buddypress-wrap .standard-form input[type=range],
+.buddypress-wrap .standard-form input[type=search],
+.buddypress-wrap .standard-form input[type=tel],
+.buddypress-wrap .standard-form input[type=text],
+.buddypress-wrap .standard-form input[type=time],
+.buddypress-wrap .standard-form input[type=url],
+.buddypress-wrap .standard-form input[type=week],
+.buddypress-wrap .standard-form select,
+.buddypress-wrap .standard-form textarea {
+    border-radius: 10px;
+}
+
+/* user css */
+section.shortcode-pg .Content {
+    background-color: #eef3fd;
+    padding: 4rem;
+}
+
+form.pmpro_form label,
+#loginform label {
+    font-size: 14px;
+    font-weight: normal;
+    line-height: normal;
+    color: #282828;
+    text-transform: capitalize;
+    padding-bottom: 5px;
+}
+
+form.pmpro_form input[type=text],
+form.pmpro_form input[type=password],
+form.pmpro_form input[type=email],
+form.pmpro_form input[type=number],
+form.pmpro_form textarea,
+form.pmpro_form select,
+#loginform input[type=text],
+#loginform input[type=password] {
+    font-size: 14px;
+    font-weight: normal;
+    line-height: normal;
+    color: #bdbdbd;
+    border-radius: 8px;
+    border: solid 1px #bdbdbd;
+    background-color: #f9f9f9;
+    width: 100%;
+    font-family: "Poppins";
+    padding: 15px;
+}
+
+
+p.pmpro_actions_nav a {
+    font-size: 12px;
+    font-weight: normal;
+    line-height: normal;
+    color: #fff;
+}
+
+p.login-submit input {
+    cursor: pointer;
+    padding: 15px 16px;
+    border-radius: 8px;
+    background-color: #1057a1;
+    width: 100%;
+    font-size: 16px;
+    font-weight: normal;
+    line-height: normal;
+    color: #fff;
+    font-family: "Poppins";
+    transition: 0.3s ease-in-out;
+}
+
+p.login-submit input:hover {
+    background-color: #123356;
+}
+
+.pgtitle h1 {
+    font-size: 40px;
+    font-weight: bold;
+    line-height: normal;
+    color: #222;
+    text-transform: capitalize;
+    margin-bottom: 1rem;
+}
+
+.pmpro_login_wrap,
+.pmpro_lost_password_wrap,
+.pmpro_reset_password_wrap {
+    margin-bottom: 0;
+}
+
+section.shortcode-pg {
+    padding: 5rem 0;
+}
+
+h3.pmpro_member_display_name {
+    margin: 1rem;
+    font-size: 22px;
+}
+
+.pmpro_member_log_out a {
+    cursor: pointer;
+    padding: 15px 16px;
+    border-radius: 8px;
+    background-color: #1057a1;
+    width: 100%;
+    font-size: 16px;
+    font-weight: normal;
+    line-height: normal;
+    color: #fff;
+    font-family: "Poppins";
+    text-align: center;
+}
+
+.pmpro_member_log_out a:hover {
+    background-color: #123356;
+}
+
+h3.pmpro_member_display_name a {
+    color: cadetblue;
+    text-transform: capitalize;
+    text-decoration: underline;
+    text-underline-position: under;
+}
+
+div#pmpro_account-membership h2 {
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 1.29;
+    color: #222;
+    padding-bottom: 35px !important;
+}
+
+table.pmpro_table thead tr th {
+    font-weight: 500;
+    color: #222;
+    font-size: 18px;
+    line-height: 2.06;
+}
+
+
+
+table.pmpro_table tbody tr td {
+    color: #666;
+}
+
+.pmpro_actionlinks a {
+    font-size: 18px;
+    font-weight: normal;
+    line-height: 1.29;
+    color: #3a9bfe;
+}
+
+.pmpro_actionlinks {
+    margin-top: 12px !important;
+}
+
+.pmpro_actionlinks a:hover {
+    color: #1057a1;
+}
+
+
+#pmpro_account .pmpro_box h2 {
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 1.29;
+    color: #222;
+    padding-bottom: 35px;
+}
+
+.pmpro_box ul li {
+    font-size: 18px;
+    font-weight: normal;
+    line-height: 2.06;
+    color: #666;
+}
+
+.pmpro_box ul li strong {
+    font-weight: 500;
+    color: #222;
+}
+
+.pmpro_box {
+    border-radius: 25px;
+    background-color: #f5f7ff;
+    padding: 25px 40px !important;
+    margin-bottom: 30px !important;
+    border-top: 0 !important;
+}
+
+.hdr-opt {
+    display: block !important;
+}
+
+body.page.page-id-1470585 section.shortcode-pg .Content {
+    background-color: transparent;
+    padding: 0;
+}
+
+table#pmpro_levels_table tr {
+    border-bottom: 1px solid #ddd;
+}
+
+table#pmpro_levels_table tr td {
+    padding: 10px 0px;
+}
+
+a.pmpro_btn {
+    cursor: pointer;
+    padding: 15px 16px !important;
+    border-radius: 8px;
+    background-color: #1057a1 !important;
+    width: 100%;
+    font-size: 16px;
+    font-weight: normal;
+    line-height: normal;
+    color: #fff;
+    font-family: "Poppins";
+    color: #fff !important;
+}
+
+p.pmpro_actions_nav {
+    margin-top: 1rem;
+}
+
+p.pmpro_level_name_text {
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 1.29;
+    color: #222;
+    padding-bottom: 35px;
+}
+
+input#pmpro_btn-submit {
+    cursor: pointer;
+    padding: 15px 16px;
+    border-radius: 8px;
+    background-color: #1057a1;
+    width: 100%;
+    font-size: 16px;
+    font-weight: normal;
+    line-height: normal;
+    color: #fff;
+    font-family: "Poppins";
+    transition: 0.3s ease-in-out;
+}
+
+input#pmpro_btn-submit:hover {
+    background-color: #123356;
+}
+
+td.pmpro_cancel-membership-cancel a,
+.pmpro_actions_nav a {
+    cursor: pointer;
+    padding: 15px 16px;
+    border-radius: 8px;
+    background-color: #1057a1;
+    width: 100%;
+    font-size: 16px;
+    font-weight: normal;
+    line-height: normal;
+    color: #fff;
+    font-family: "Poppins";
+    transition: 0.3s ease-in-out;
+    text-align: center;
+}
+
+td.pmpro_cancel-membership-cancel a:hover,
+.pmpro_actions_nav a {
+    background-color: #123356;
+}
+
+.pmpro_actions_nav a:hover {
+    letter-spacing: .2em;
+}
+
+.pmpro_actions_nav {
+    margin-top: 2rem;
+}
+
+span.pmpro_asterisk {
+    color: #f00;
+
+}
+
+.pmpro_checkout-field {
+    position: relative;
+}
+
+.page-id-1470588 .pmpro_checkout-field {
+    width: 49%;
+    display: inline-block;
+}
+
+.pmpro_confirmation_wrap>p {
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 1.8;
+    color: #222;
+    padding-bottom: 20px;
+}
+
+.pmpro_confirmation_wrap ul li {
+    font-size: 18px;
+    font-weight: normal;
+    line-height: 2.06;
+    color: #666;
+}
+
+.pmpro_confirmation_wrap ul li strong {
+    font-weight: 500;
+    color: #222;
+}
+
+table.pmpro_table tr td {
+    padding: .5rem 0;
+    border-bottom: 1px solid #ddd;
+}
+
+form.pmpro_form input[type=text],
+form.pmpro_form input[type=password],
+form.pmpro_form input[type=email],
+form.pmpro_form input[type=number],
+form.pmpro_form textarea,
+form.pmpro_form select,
+#loginform input[type=text],
+#loginform input[type=password] {
+    max-width: 100%;
+}
+
+.pmpro_member_profile_edit-field.pmpro_member_profile_edit-field-.user_email p.lite {
+    margin-top: 1rem;
+    font-size: 18px;
+    font-weight: normal;
+    line-height: normal;
+    color: #282828;
+}
+
+.pmpro_submit input[type="submit"] {
+    width: 49%;
+    display: block;
+    cursor: pointer;
+    padding: 15px 16px;
+    border-radius: 8px;
+    background-color: #1057a1;
+    font-size: 16px;
+    font-weight: normal;
+    line-height: normal;
+    color: #fff !important;
+    font-family: "Poppins";
+    transition: 0.3s ease-in-out;
+    margin-bottom: 1rem;
+}
+
+.pmpro_submit input[type="submit"]:hover {
+    background-color: #123356;
+}
+
+.pmpro_submit input[type="button"] {
+    font-size: 20px;
+    font-family: "Poppins";
+    text-underline-position: under;
+}
+
+#buddypress #header-cover-image.cover-small {
+    height: 301px;
+    border-radius: 25px;
+}
+
+#item-header-avatar img {
+    height: 200px;
+    border-radius: 50%;
+    border: 5px solid #fff;
+    margin-right: 50px;
+    object-fit: cover;
+    object-position: center;
+}
+
+#item-header-cover-image #item-header-avatar img.avatar {
+    max-width: 200px;
+}
+
+
+
+.item-header-wrap {
+    align-items: end;
+}
+
+h2.user-nicename {
+    font-size: 36px;
+    font-weight: 600;
+    line-height: 1.29;
+    color: #222;
+    text-transform: capitalize;
+}
+
+.single-headers .item-meta {
+    font-size: 18px;
+    font-weight: normal;
+    line-height: 1.29;
+    color: #666;
+    padding-top: 10px;
+    margin: 0;
+}
+
+ul.subnav li {
+    font-weight: 500;
+    line-height: 1.29;
+}
+
+ul.subnav li+li {
+    margin-left: 1rem;
+}
+
+ul.subnav li a {
+    font-size: 15px !important;
+    font-weight: normal !important;
+    color: #fff !important;
+    padding: 12px 20px !important;
+    border-radius: 10px !important;
+    background-color: #1057a1 !important;
+    border: 1px solid #1057a1 !important;
+}
+
+.bp-widget.details {
+    padding: 53px 50px 68px;
+    border-radius: 25px;
+    background-color: #f5f7ff;
+}
+
+h3.screen-heading.profile-group-title {
+    border-bottom: 1px solid #d2d2d2;
+    padding-bottom: 20px;
+    margin-bottom: 50px !important;
+}
+
+.buddypress-wrap .bp-tables-report tr td.label,
+.buddypress-wrap .bp-tables-user tr td.label,
+.buddypress-wrap table.forum tr td.label,
+.buddypress-wrap table.wp-profile-fields tr td.label {
+    font-size: 18px;
+    font-weight: normal;
+    line-height: 1.29;
+    color: #666;
+    text-transform: capitalize;
+    padding: 20px 0;
+    border-right: 0;
+}
+
+.buddypress-wrap table.profile-fields td.data>p {
+    font-size: 18px;
+    font-weight: normal;
+    line-height: 1.29;
+    color: #666;
+    text-transform: capitalize;
+}
+
+.buddypress-wrap .bp-tables-report tbody tr,
+.buddypress-wrap .bp-tables-user tbody tr,
+.buddypress-wrap table.forum tbody tr,
+.buddypress-wrap table.wp-profile-fields tbody tr {
+    background-color: transparent;
+}
+
+.buddypress-wrap .bp-tables-report tr.alt td,
+.buddypress-wrap .bp-tables-user tr.alt td,
+.buddypress-wrap table.wp-profile-fields tr.alt td {
+    background-color: transparent;
+}
+
+ul.subnav li a:hover,
+ul.subnav li.current a {
+    background: none !important;
+    color: #1057a1 !important;
+}
+
+
+.buddypress-wrap.bp-dir-hori-nav:not(.bp-vertical-navs) nav {
+    padding-bottom: 20px;
+}
+
+.profile-icon .p-img {
+    overflow: hidden;
+}
+
+.buddypress-wrap .standard-form div.submit input {
+    font-family: 'poppins';
+}
+
+.bp-feedback p {
+    line-height: 1.8;
+}
+
+.bb_more_options.message-action-options {
+    margin-left: 12px;
+}
+
+
+ul.bb_more_options_list.message_action__list.is_visible li a {
+    padding: 10px !important;
+    font-size: 14px !important;
+    background-color: transparent !important;
+}
+
+ul.bb_more_options_list.message_action__list.is_visible li+li {
+    margin-left: 0;
+    margin-top: 10px;
+}
+
+.messages-wrapper .bp-subnavs {
+    overflow: visible;
+}
+
+#buddypress .bp-messages-container .message_action__list {
+    min-width: 250px;
+    padding: 10px;
+}
+
+.buddypress-wrap.bp-dir-hori-nav:not(.bp-vertical-navs) nav {
+    box-shadow: none;
+}
+
+.medium-editor-element {
+    border: 1px solid #d6d6d6;
+    padding: 3px 5px;
+    min-height: 200px;
+}
+
+.card-img-top {
+    padding: 50px 0 0;
+}
+
+.bsui .tofront {
+    margin-top: -60px;
+}
+
+.bp-navs ul li .count {
+    flex-shrink: 0;
+    padding: 4px !important;
+}
+
+li.bp-personal-tab.current.selected a {
+    color: #3a9bfe !important;
+    border-right: 1px solid #3a9bfe;
+}
+
+.profile-icon .p-img img {
+    border-radius: 50%;
+}
+
+#item-header-cover-image #item-header-avatar img.avatar {
+    border-radius: 50%;
+}
+
+
+.bp-nouveau .innerBanner {
+    display: block;
+}
+
+.my-account .innerBanner {
+    display: none;
+}
+
+.main-notification-settings th.email {
+    display: flex;
+    align-items: baseline;
+}
+
+.main-notification-settings td.email {
+    display: flex;
+    align-items: baseline;
+}
+
+.bp-checkbox-wrap {
+    display: flex;
+    align-items: baseline;
+}
+
+div#whats-new-textarea p {
+    padding: 10px;
+}
+
+div#bp-message-content p {
+    padding: 10px;
+}
+
+ul.component-navigation.members-nav li a {
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.buddypress .buddypress-wrap .search-form-has-reset #bbp_search,
+.buddypress .buddypress-wrap .search-form-has-reset input[type=search],
+.search-form-has-reset #bbp_search,
+.search-form-has-reset input[type=search] {
+    padding: 4px 0 0 36px;
+    font-family: 'Poppins';
+}
+
+.buddypress-wrap form.bp-dir-search-form:before {
+    top: 8px;
+}
+
+.buddypress-wrap .subnav-filters .subnav-search {
+    background-color: #fff;
+}
+
+.select-wrap {
+    background-color: #fff;
+}
+
+.grid-filters {
+    background-color: #fff;
+}
+
+h2.list-title.member-name {
+    font-size: 22px;
+    color: #333;
+    margin-top: 10px !important;
+    display: block;
+    text-transform: capitalize;
+}
+
+.group-create .dashboard-sec {
+    width: 50%;
+    display: block;
+    margin: auto;
+    padding: 100px 0;
+}
+
+#group-create-body h3 {
+    font-size: 24px;
+    padding: 24px 0;
+    font-weight: 500;
+}
+
+.buddypress-wrap .item-body .group-create-buttons {
+    font-size: 18px;
+    padding-bottom: 20px;
+}
+
+
+#group-create-body .bp-radio-wrap {
+    display: flex;
+    align-items: baseline;
+}
+
+
+
+#group-create-body fieldset.radio.group-status-type {
+    padding: 25px 0;
+}
+
+
+#group-create-body fieldset.radio.group-invitations {
+    padding: 25px 0;
+}
+
+
+#group-create-body fieldset.radio.group-post-form {
+    padding: 25px 0;
+}
+
+
+#group-create-body fieldset.radio.group-media {
+    padding: 25px 0;
+}
+
+
+#group-create-body fieldset.radio.group-albums {
+    padding: 25px 0;
+}
+
+
+#group-create-body input#group-creation-previous {
+    width: auto;
+    border-radius: 10px;
+    background-color: #1057a1;
+    text-align: center;
+    font-weight: 400;
+    color: #fff;
+    padding: 10px 15px;
+    transition: 0.3s ease-in-out;
+}
+
+#group-create-body p {
+    padding: 20px 0;
+}
+
+#group-create-body h4 {
+    font-size: 20px;
+    padding: 20px 0;
+    font-weight: 500;
+}
+
+#group-create-body #create-group-form img {
+    width: 75%;
+    padding: 20px;
+}
+
+#group-create-body p.bp-help-text {
+    padding: unset !important;
+}
+
+#group-create-body label {
+    margin: unset;
+}
+
+#group-create-body h2.bp-screen-title.creation-step-name {
+    font-size: 24px;
+    padding: 20px 0;
+    font-weight: 500;
+}
+
+#group-create-body .bp-group-message-wrap {
+    display: flex;
+}
+
+#group-create-body label {
+    margin: unset;
+    padding-bottom: 12px;
+}
+
+.item-body input {
+    margin-bottom: 30px;
+}
+
+.buddypress-wrap fieldset legend {
+    font-size: 20px;
+    font-weight: 600;
+    padding-bottom: 18px;
+}
+
+#public-group-description li {
+    font-size: 14px;
+    line-height: 2;
+}
+
+.bp-radio-wrap input {
+    margin-bottom: 10px;
+}
+
+#public-group-description li {
+    font-size: 14px;
+    line-height: 2;
+}
+
+.bp-radio-wrap input {
+    margin-bottom: 10px;
+}
+
+#private-group-description li {
+    font-size: 14px;
+    line-height: 2;
+}
+
+.bp-radio-wrap input {
+    margin-bottom: 10px;
+}
+
+#hidden-group-description li {
+    font-size: 14px;
+    line-height: 2;
+}
+
+#group-create-body p {
+    padding: 0 0 20px;
+}
+
+.buddypress-wrap .standard-form .main-column {
+    margin-left: 37%;
+}
+
+#group-create-body p.bp-help-text {
+    padding: unset !important;
+    line-height: 1.55;
+}
+
+#group-create-body p.bp-help-text {
+    padding: unset !important;
+    line-height: 1.55;
+}
+
+section.gdlist-detail {
+    padding: 60px 0px !important;
+}
+
+.gdlist-detail .badge {
+    padding: 10px !important;
+}
+
+.gdlist-detail .gdsdbr section,
+.gdsdbr span {
+    padding: 4px 0px !important;
+}
+
+
+nav#object-nav ul {
+    padding: 15px;
+}
+
+h2.wp-block-heading {
+    padding: 20px 0;
+    font-weight: 600;
+    font-size: 25px;
+}
+
+span.geodir_post_meta_title {
+    font-weight: 500;
+    margin-right: 10px;
+}
+
+.geodir-post .card-header h2.geodir-entry-title.h5 a {
+    font-size: 25px;
+    font-weight: 600;
+    line-height: 1.29;
+    color: #1057a1;
+    text-transform: capitalize;
+    padding-bottom: 12px;
+}
+
+.geodir-post .card-header .geodir_post_meta {
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.29;
+    color: #666;
+    padding-top: 15px;
+}
+
+.geodir-post .card {
+    border-radius: 10px !important;
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.15) !important;
+    background-color: #fff !important;
+    padding: 25px 25px !important;
+    position: relative !important;
+    margin-bottom: 30px !important;
+    /* min-height: 300px !important; */
+    transition: 0.3s ease-in-out !important;
+}
+
+.geodir-post .card-header {
+    padding: 0.75rem 1.25rem;
+    margin-bottom: unset;
+    background-color: unset;
+    border-bottom: unset;
+}
+
+.standard-form.bb-notification-column-2 th.web {
+    display: flex;
+}
+
+.standard-form.bb-notification-column-2 td.web {
+    display: flex;
+}
+
+.standard-form.bb-notification-column-2 table.main-notification-settings tr {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.standard-form.bb-notification-column-2 table.main-notification-settings {
+    width: 100%;
+}
+
+.standard-form.bb-notification-column-2 .main-notification-settings th.email {
+    display: inline-flex;
+}
+
+.standard-form.bb-notification-column-2 .item-body input {
+    margin-bottom: 0 !important;
+}
+
+.buddypress-wrap .standard-form label,
+.buddypress-wrap .standard-form span.label {
+    margin: 0;
+}
+
+#account-group-invites-form .bp-checkbox-wrap {
+    padding: 20px 0 0 0;
+}
+
+.single-msg p {
+    color: #000;
+    font-size: 16px;
+}
+
+.dashboardmenu {
+    display: inline-flex;
+    align-items: center;
+}
+
+.menuWrap {
+    display: inline-flex;
+}
+
+#item-header-cover-image {
+    top: -50px;
+}
+
+.followers-wrap,
+.following-wrap {
+    display: inline-flex;
+    font-size: 16px;
+    font-weight: 400;
+    color: #93989a;
+    margin-right: 15px
+}
+
+#item-header-cover-image #item-header-avatar {
+    top: 0;
+}
+
+.member-header-actions-wrap {
+    position: absolute;
+    top: 0;
+    right: 0;
+    display: flex;
+    align-items: center;
+    margin-top: 50px;
+}
+
+.bp-user .bb-enable-cover-img .bb_more_options {
+    margin: 0;
+}
+
+button#friend-2,
+.buddypress-wrap .subnav-filters .component-filters select,
+.buddypress-wrap .subnav-filters .last select,
+.buddypress-wrap #notification-select {
+    background: #1057a1;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-family: 'Poppins';
+}
+
+.dashboard-nav ul a::before {
+    left: 0px !important;
+}
+
+td.notification-description a {
+    font-size: 14px;
+    font-weight: 400;
+    color: #000;
+    line-height: 1.5;
+}
+
+.dashicons,
+.dashicons-before:before {
+    color: #1057a1;
+}
+
+div#item-body p {
+    padding: 10px 0;
+}
+
+.buddypress-wrap .standard-form label,
+.buddypress-wrap .standard-form span.label {
+    margin: 20px 0 10px;
+}
+
+#item-body,
+.single-screen-navs {
+    position: relative;
+}
+
+.clearfix.geodir-loop-actions-container.bsui {
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+#member-invites-table .field-actions-add {
+    cursor: pointer;
+    height: 30px;
+    width: 30px;
+    background: #000;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.form-group input,
+.form-group select {
+    border: 1px solid #0000004d;
+    padding: 10px;
+    margin: 10px 0 20px;
+    font-family: inherit;
+    width: 100%;
+    border-radius: 5px;
+}
+
+a.wpinv-wallet-withdraw-link.btn.btn-outline-primary.btn-sm.ml-2 {
+    margin: 0 10px;
+}
+
+a.wpinv-wallet-withdraw-link.btn.btn-outline-primary.btn-sm.ml-2 {
+    margin: 0 10px;
+}
+
+.dashboard-nav .bp-navs ul #getpaid-personal-li a:before {
+    position: absolute;
+    font-family: 'Font Awesome 5 Pro';
+    left: 10px;
+    content: "\f571";
+}
+
+#getpaid-personal-li .bb-single-nav-item-point {
+    padding-left: 20px;
+}
+
+li.bbp-topic-title a.bbp-topic-permalink {
+    font-size: 16px;
+    color: #000;
+    padding: 10px 0;
+}
+
+#bbpress-forums p.bbp-topic-meta span {
+    color: #000;
+    font-size: 16px;
+}
+
+span.bbp-topic-started-in a {
+    color: #000;
+}
+
+.bbp-body a {
+    color: #000;
+    font-size: 15px;
+    padding: 5px 0;
+}
+
+span.bbp-author-name {
+    font-size: 16px;
+    color: #000;
+    text-transform: capitalize;
+    padding: 5px 0;
+}
+
+a {
+    color: #000;
+}
+
+table.notifications.bp-tables-user td.notification-actions {
+    display: flex;
+    gap: 12px;
+    align-items: center;
+}
+
+.followers-wrap strong {
+    font-weight: bold;
+    margin-right: 5px;
+}
+
+.following-wrap strong {
+    font-weight: bold;
+    margin-right: 5px;
+}
+
+.dashboard-nav::before {
+    display: none;
+}
+
+
+@media (max-width: 1200px) {
+    header .main-header ul.menu>li a {
+        margin-bottom: 5px;
+    }
+
+    .hdr-dash li a i {
+        color: #000;
+    }
+}
+
+@media (max-width: 1024px) {
+    #item-header-cover-image #item-header-avatar {
+        top: 0;
+        max-width: 225px;
+    }
+
+    .dashboardmenu {
+        gap: 10px;
+    }
+}
+
+@media (max-width: 824px) {
+    .hdr-search {
+        margin-left: 80px !important;
+    }
+
+    #item-header-cover-image #item-header-avatar img.avatar {
+        margin: auto;
+    }
+
+    .pricing-box h3 {
+        font-size: 18px;
+    }
+
+    .pricing-box .content {
+        padding: 45px 15px;
+    }
+}
+
+@media (max-width: 767px) {
+    .hdr-search {
+        margin-left: 0 !important;
+    }
+
+    footer .ft-social li {
+        margin-right: 0px;
+    }
+
+}
+
+body.forum-archive div#bbpress-forums {
+    max-width: 1150px !important;
+    margin: 129px auto !important;
+    padding: 0 15px;
+}
+
+body.forum-archive h2.entry-title {
+    visibility: hidden !important;
+}
+
+body.page-id-1483974 div#bbpress-forums {
+    max-width: 1150px !important;
+    margin: 129px auto !important;
+    padding: 0 15px;
+}
+
+.page-id-1483975 .screen-content {
+    max-width: 1150px !important;
+    margin: 60px auto !important;
+    padding: 0 15px;
+}
+
+.page-id-1483974 nav.groups-type-navs.main-navs.bp-navs.dir-navs {
+    max-width: 1150px !important;
+    margin: 60px auto !important;
+    padding: 0 15px;
+}
+
+.page-id-1483974 .screen-content {
+    max-width: 1150px !important;
+    margin: 60px auto !important;
+    padding: 0 15px;
+}
+
+.page-id-1513555 .screen-content {
+    max-width: 1150px !important;
+    margin: 60px auto !important;
+    padding: 0 15px;
+}
+
+.page-id-1462025 .members-directory-wrapper {
+    max-width: 1150px !important;
+    margin: 60px auto !important;
+    padding: 0 15px;
+}
+
+.page-id-1462024 .whats-new-scroll-view {
+    max-width: 1150px !important;
+    margin: 60px auto !important;
+    padding: 0 15px;
+}
+
+.page-id-1462024 div#whats-new-toolbar {
+    max-width: 1150px !important;
+    margin: 10px auto !important;
+    padding: 0 15px;
+}
+
+.page-id-1462024 nav.activity-type-navs.main-navs.bp-navs.dir-navs {
+    max-width: 1150px !important;
+    margin: 10px auto !important;
+    padding: 0 15px;
+}
+
+/* 1-02-2024 */
+.users-header #item-header-avatar:hover .link-change-overlay {
+    position: absolute;
+    left: 85px;
+    right: 40px;
+    top: 100px;
+    height: 120px;
+    width: 120px;
+    background-color: rgba(0, 0, 0, .3);
+    border-radius: 50%;
+}
+
+.bb-icon-camera:before {
+    content: '\ee06';
+    position: absolute;
+    top: 75px;
+    left: 0px;
+}
+
+.bsui .text-center {
+    padding-bottom: 10px;
+}
+
+.compose .bp-messages-recipient {
+    padding: 23px 55px 22px 22px;
+}
+
+.buddypress-wrap .bp-navs li {
+    padding-right: 8px;
+}
+
+.geodir-category-list-view.geodir-widget-posts {
+    padding: 15px;
+}
+
+.messages .bp-messages-form-header {
+    display: none !important;
+}
+
+.bsui .dropdown-toggle:not(.dropdown-toggle-split)::after {
+    margin: 0;
+}
+
+.compose .bp-messages-recipient>span:first-child {
+    display: flex;
+    align-items: center;
+}
+
+#geodirectory-add-post #geodir_fieldset_details h3 {
+    margin-bottom: 0 !important;
+}
+
+.member-buttons-wrap .footer-button-wrap .generic-button {
+    width: 200px;
+    padding: 10px 8px 10px;
+    margin: 15px 10px 15px;
+}
+
+.buddypress-wrap .members-list:not(.grid) .list-wrap {
+    margin-top: 30px;
+    border-radius: 10px;
+    box-shadow: 3px 4px 4px 2px #cccccc36;
+
+}
+
+.buddypress-wrap .members-list li .list-wrap .member-name a {
+    text-decoration: none;
+    text-transform: capitalize;
+    color: #000;
+}
+
+.bsui .alert-info {
+    overflow: hidden;
+}
+
+.bp-list>li {
+    border-bottom: none;
+}
+
+.list .footer-button-wrap {
+    padding-left: 13% !important;
+}
+
+.list .grid .button-wrap>div {
+    margin: 0 auto !important;
+}
+
+#message_content {
+    margin-bottom: 10px;
+    background: #fff !important;
+    border: 1px solid #ccc;
+    padding: 10px 5px 10px 5px;
+}
+
+#message_content:focus {
+    outline: none !important;
+}
+
+#buddypress .bb_more_options,
+.bb_more_options {
+    position: absolute;
+    margin-top: -10px;
+}
+
+/* Ends here */
+
+.page-id-1462024 .screen-content {
+    max-width: 1150px !important;
+    margin: 10px auto !important;
+    padding: 0 15px;
+}
+
+.page-id-1462024 #whats-new-form {
+    border: 1px solid #ffffff;
+}
+
+.page-id-1462024 div#bp-nouveau-activity-form {
+    border: 1px solid #fff;
+}
+
+.page-id-1462024 div#user-status-huddle {
+    width: 200px;
+}
+
+div#item-header-cover-image {
+    max-width: 1150px !important;
+    margin: 60px auto !important;
+    padding: 0 15px;
+}
+
+.bp-wrap {
+    max-width: 1150px !important;
+    margin: 0px auto !important;
+    padding: 0 15px;
+}
+
+.notifications .bp-wrap,
+.messages .bp-wrap,
+.settings .bp-wrap {
+    max-width: 1150px !important;
+    margin: 164px auto 0 !important;
+    padding: 0 15px;
+}
+
+.bbp-user-page #item-header-cover-image #item-header-avatar img.avatar {
+    max-width: 250px !important;
+    height: 100%;
+    object-fit: contain;
+}
+
+.bbp-user-page .form-control,
+.bbp-user-page select#wpinv-country {
+    width: 100%;
+    border: 1px solid #ccc !important;
+    padding: 9px 5px;
+    font-size: 15px;
+    margin-bottom: 13px;
+}
+
+.bbp-user-page select.getpaid-address-field {
+    width: 100%;
+    border: 1px solid #ccc !important;
+    padding: 9px 5px;
+    font-size: 15px;
+    margin-bottom: 13px;
+}
+
+.bbp-user-page input#getpaid_profile_edit_submit_button {
+    background: #1057A1;
+    border: none !important;
+    color: #fff;
+    padding: 10px 22px;
+    margin-right: 8px;
+}
+
+.messages a.hfe-menu-item {
+    color: #333 !important;
+}
+
+.messages h3.elementor-icon-box-title {
+    color: #333 !important;
+}
+
+.messages .elementor-2355732 .elementor-element.elementor-element-9f2899e.elementor-view-default .elementor-icon {
+    fill: #333;
+    color: #080808;
+    border-color: #FFFFFF;
+}
+
+.notifications a.hfe-menu-item {
+    color: #333 !important;
+}
+
+.notifications h3.elementor-icon-box-title {
+    color: #333 !important;
+}
+
+.notifications .elementor-2355732 .elementor-element.elementor-element-9f2899e.elementor-view-default .elementor-icon {
+    fill: #333;
+    color: #080808;
+    border-color: #FFFFFF;
+}
+
+.settings a.hfe-menu-item {
+    color: #333 !important;
+}
+
+.settings h3.elementor-icon-box-title {
+    color: #333 !important;
+}
+
+.settings .elementor-2355732 .elementor-element.elementor-element-9f2899e.elementor-view-default .elementor-icon {
+    fill: #333;
+    color: #080808;
+    border-color: #FFFFFF;
+}
+
+.bbp-user-page input#submit {
+    background: #1057A1;
+    border: none !important;
+    color: #fff;
+    padding: 10px 22px;
+}
+
+.group-create div#buddypress,
+.change-avatar div#buddypress,
+.change-cover-image div#buddypress,
+.profile-edit div#buddypress,
+.page-id-1831703 form#affwp-register-form,
+.error404 section {
+    max-width: 1150px !important;
+    margin: 148px auto 0 !important;
+    padding: 0 15px;
+}
+
+.group-create header#masthead,
+.change-avatar header#masthead,
+.change-cover-image header#masthead,
+.profile-edit header#masthead,
+.page-id-1831703 header#masthead,
+.error404 header#masthead {
+    z-index: 99;
+    position: absolute !important;
+    top: 0 !important;
+    left: 0 !important;
+    right: 0 !important;
+}
+
+.group-create a.hfe-menu-item {
+    color: #333 !important;
+}
+
+.group-create h3.elementor-icon-box-title {
+    color: #333 !important;
+}
+
+.group-create .elementor-2355732 .elementor-element.elementor-element-9f2899e.elementor-view-default .elementor-icon {
+    fill: #333;
+    color: #080808;
+    border-color: #FFFFFF;
+}
+
+.submit input {
+    background: #1057A1 !important;
+    border: none !important;
+    color: #fff !important;
+    padding: 10px 22px !important;
+}
+
+div#user-status-huddle {
+    width: 180px !important;
+}
+
+#item-header-cover-image #item-header-avatar img.avatar {
+    max-width: 250px !important;
+}
+
+.video .screen-content {
+    max-width: 1150px !important;
+    margin: 60px auto 0 !important;
+    padding: 0 15px;
+}
+
+a#bp-add-media {
+    background: #1057A1 !important;
+    border: none !important;
+    color: #fff !important;
+    padding: 10px 22px !important;
+}
+
+ul#menu-1-f8365dd li a {
+    color: #fff !important;
+}
+
+ul.sub-menu.dropdown-menu.dropdown-caret-0.show {
+    background: #898888;
+}
+
+ul#menu-1-f8365dd .fas:before {
+    color: #959798;
+}
+
+.change-avatar a.hfe-menu-item {
+    color: #333 !important;
+}
+
+.change-avatar h3.elementor-icon-box-title {
+    color: #333 !important;
+}
+
+.change-avatar .elementor-2355732 .elementor-element.elementor-element-9f2899e.elementor-view-default .elementor-icon {
+    fill: #333;
+    color: #080808;
+    border-color: #FFFFFF;
+}
+
+.change-cover-image a.hfe-menu-item {
+    color: #333 !important;
+}
+
+.change-cover-image h3.elementor-icon-box-title {
+    color: #333 !important;
+}
+
+.change-cover-image .elementor-2355732 .elementor-element.elementor-element-9f2899e.elementor-view-default .elementor-icon {
+    fill: #333;
+    color: #080808;
+    border-color: #FFFFFF;
+}
+
+.profile-edit a.hfe-menu-item {
+    color: #333 !important;
+}
+
+.profile-edit h3.elementor-icon-box-title {
+    color: #333 !important;
+}
+
+.profile-edit .elementor-2355732 .elementor-element.elementor-element-9f2899e.elementor-view-default .elementor-icon {
+    fill: #333;
+    color: #080808;
+    border-color: #FFFFFF;
+}
+
+.page-id-1831703 a.hfe-menu-item {
+    color: #333 !important;
+}
+
+.page-id-1831703 h3.elementor-icon-box-title {
+    color: #333 !important;
+}
+
+.page-id-1831703 .elementor-2355732 .elementor-element.elementor-element-9f2899e.elementor-view-default .elementor-icon {
+    fill: #333;
+    color: #080808;
+    border-color: #FFFFFF;
+}
+
+.error404 a.hfe-menu-item {
+    color: #333 !important;
+}
+
+.error404 h3.elementor-icon-box-title {
+    color: #333 !important;
+}
+
+.error404 .elementor-2355732 .elementor-element.elementor-element-9f2899e.elementor-view-default .elementor-icon {
+    fill: #333;
+    color: #080808;
+    border-color: #FFFFFF;
+}
+
+.pmpro-member-profile-edit input {
+    width: 100%;
+    border: 1px solid #ccc !important;
+    padding: 9px 5px;
+    font-size: 15px;
+}
+
+.pmpro-member-profile-edit input.pmpro_btn.pmpro_btn-submit {
+    background: #1057A1 !important;
+    border: none !important;
+    color: #fff !important;
+    padding: 10px 22px !important;
+    margin-bottom: 14px;
+}
+
+button.btn.btn-primary.w-100.text-uppercase.uwp_login_submit {
+    background: #1057A1 !important;
+    border: none !important;
+    color: #fff !important;
+    padding: 10px 22px !important;
+}
+
+.page-id-1831703 input.button {
+    background: #1057A1 !important;
+    border: none !important;
+    color: #fff !important;
+    padding: 10px 22px !important;
+}
+
+.page-id-1831703 form#affwp-register-form input {
+    padding: 10px 8px;
+    font-size: 16px;
+    margin-bottom: 15px;
+}
+
+.messages .bp-messages-form-header {
+    position: absolute;
+    border: 0;
+    top: 138px !important;
+    right: 224px !important;
+}
+
+.error404 input.form-control.ui-autocomplete-input {
+    padding: 8px;
+}
+
+.error404 button.search-submit.btn.btn-primary {
+    background: #1057A1 !important;
+    border: none !important;
+    color: #fff !important;
+    padding: 10px 23px !important;
+    margin-left: 4px;
+}
+
+.input-group {
+    padding-top: 17px;
+}
+
+.bp-navs ul li a {
+    color: #000 !important;
+}
+
+.bp-navs ul li.current a,
+.bp-navs ul li.selected a {
+    background: #000 !important;
+    color: #fff !important;
+}
+
+.buddypress-wrap .main-navs:not(.dir-navs) li.current a,
+.buddypress-wrap .main-navs:not(.dir-navs) li.selected a {
+    background: #000 !important;
+    color: #fff !important;
+}
+
+.buddypress-wrap .bp-navs li:not(.current) a:focus,
+.buddypress-wrap .bp-navs li:not(.current) a:hover,
+.buddypress-wrap .bp-navs li:not(.selected) a:focus,
+.buddypress-wrap .bp-navs li:not(.selected) a:hover {
+    background: #cccccc52 !important;
+}
+
+.buddypress-wrap.bp-dir-hori-nav:not(.bp-vertical-navs) nav {
+    /*     box-shadow: 0 0px 20px rgba(0,0,0,0.19), 0 0px 0px rgba(0,0,0,0.23); */
+    padding: 8px 15px 8px 15px;
+    border: 1px solid #ccc6;
+}
+
+.bb-subnav-plain {
+    margin: 23px 0;
+}
+
+.bp-subnavs li.selected a:hover {
+    color: #fff !important;
+}
+
+/* adding listing form css start*/
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins';
+}
+
+body.forum-archive #bbpress-forums {
+    max-width: 1140px !important;
+    margin: 129px auto !important;
+}
+
+.dropdown-menu {
+    position: absolute;
+    opacity: 0;
+    visibility: hidden;
+    top: 100%;
+    background: #000;
+    min-width: 250px !important;
+    right: 0;
+}
+
+.dropdown-menu ul.hfe-nav-menu {
+    display: flex !important;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: flex-start;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.dropdown-menu ul.hfe-nav-menu li {
+    width: 100%;
+    text-align: left;
+    margin: 0;
+}
+
+.dropdown-menu ul.hfe-nav-menu li a {
+    text-align: left;
+}
+
+.dropdown-menu ul.hfe-nav-menu {
+    width: 100%;
+}
+
+.dropdown-menu ul.hfe-nav-menu li a {
+    justify-content: flex-start;
+}
+
+.dropdown-menu ul.hfe-nav-menu li:hover {
+    background: #898888;
+}
+
+.dropdown-menu ul.hfe-nav-menu li a {
+    color: #fff;
+}
+
+.dropdown-menu ul.hfe-nav-menu li i,
+.dropdown-menu ul.hfe-nav-menu li img {
+    margin-right: 15px;
+}
+
+.transparent_header {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+}
+
+.dropdown-menu.show {
+    opacity: 1;
+    visibility: visible;
+}
+
+.elementor-message.elementor-message-success {
+    color: green;
+}
+
+body.page-id-2355743 header {
+    display: none;
+}
+
+body.page-id-2355743 footer {
+    display: none;
+}
+
+.footer_form button[type="submit"] {
+    /* display: none; */
+    position: absolute;
+    right: 0;
+    top: 0;
+    visibility: hidden;
+}
+
+.footer_form #form-field-email {
+    position: relative;
+}
+
+.footer_form {
+    position: relative;
+}
+
+.e-form__buttons {
+    position: static;
+}
+
+.footer_form button[type="submit"]::before {
+    content: "";
+    height: 15px;
+    width: 15px;
+    border-top: 3px solid #000;
+    border-right: 3px solid #000;
+    visibility: visible;
+    position: absolute;
+    transform: rotate(45deg);
+    right: 14px;
+    top: 13px;
+    cursor: pointer;
+}
+
+#geodirectory-add-post .form-group input[title="Package"] {
+    position: static;
+    width: 1em;
+    margin-right: 10px;
+    margin-top: 0 !important;
+}
+
+#geodirectory-add-post input[type="radio"] {
+    width: 1rem;
+    margin: 5px 10px 0 0;
+}
+
+#geodirectory-add-post i.fas.fa-certificate {
+    font-size: 10px;
+}
+
+#geodirectory-add-post span.selection {
+    width: 100%;
+}
+
+#geodirectory-add-post .select2-container .select2-search--inline .select2-search__field {
+    box-sizing: border-box;
+    border: none;
+    font-size: 100%;
+    margin-top: 5px;
+    padding: 0;
+    width: 100% !important;
+}
+
+#geodirectory-add-post {
+    padding: 35px;
+    border-radius: 15px;
+    margin-top: 80px;
+    border: 2px solid;
+}
+
+#geodirectory-add-post .form-group.row {
+    margin-bottom: 30px;
+}
+
+#geodir_fieldset_details {
+    margin-bottom: 50px;
+    width: max-content;
+    margin-top: -70px;
+    background: #fff;
+    padding: 15px;
+    border: 2px solid;
+    border-radius: 15px;
+}
+
+#address_street {
+    margin-top: 0;
+}
+
+#geodirectory-add-post #logo_row .mx-3.w-100,
+#post_images_row .mx-3.w-100 {
+    flex: 0 0 83.33333333%;
+    max-width: 83.33333333%;
+}
+
+#geodirectory-add-post #logo_row,
+#post_images_row {
+    justify-content: flex-end;
+}
+
+/*addubg listing from css end*/
+/* 23-02-2024 start */
+.categrory_card .elementor-widget-container {
+    min-width: 150px;
+    border-radius: 10px;
+}
+
+.categrory_card .elementor-widget-container:hover {
+    background: #fff;
+    color: #000;
+}
+
+.categrory_card .elementor-widget-container:hover .elementor-icon-box-content h3 {
+    color: #000;
+}
+
+body.forum-archive #bbpress-forums {
+    max-width: 1140px !important;
+    margin: 129px auto !important;
+}
+
+
+/* 23-02-2024 end*/
+
+
+/* 05-03-2024  */
+
+.bp-single-message-wrap a .avatar {
+    width: 60px;
+}
+
+#bp-message-thread-list li {
+    position: unset !important;
+}
+
+.bp-single-message-wrap .bp-single-message-content {
+    padding: 0px 15px;
+}
+
+#members-list li .list-wrap .item-avatar .avatar {
+    max-width: 100% !important;
+    height: 100% !important;
+    border: 1px solid #ccc;
+}
+
+#members-list li .list-wrap .item-avatar a {
+    display: block;
+    width: 100px;
+    height: 100px;
+}
+
+#members-list.grid li .list-wrap .item-avatar a {
+    margin: 0px auto 10px;
+}
+
+.elementor-widget-wp-widget-gd_search {
+    width: 50%;
+}
+
+.gd-search-field-search.col-auto.flex-fill.px-0 {
+    width: 20%;
+}
+
+/* Form container */
+.pmpro_form {
+    width: 60%;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+    box-shadow: 2px 1px 10px 3px #0000005c;
+}
+
+/* Form fields */
+.pmpro_checkout-fields {
+    margin-bottom: 20px;
+}
+
+.pmpro_checkout-field label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+.pmpro_checkout-field input[type="text"],
+.pmpro_checkout-field input[type="password"],
+.pmpro_checkout-field input[type="email"] {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+
+.pmpro_asterisk {
+    color: red;
+}
+
+.pmpro_btn-submit-checkout {
+    padding: 10px 20px;
+    background-color: #0073aa;
+    color: white;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+.pmpro_btn-submit-checkout:hover {
+    background-color: #005d80;
+}
+
+.pmpro_submit hr {
+    display: none;
+}
+
+/* Form container */
+.pmpro_login_wrap {
+    width: 40%;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    box-shadow: 0px 0px 6px 3px #0000005c;
+    border-radius: 5px;
+}
+
+
+/* Form labels */
+#loginform label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+/* Form inputs */
+#loginform input[type="text"],
+#loginform input[type="password"] {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+
+/* Remember me checkbox */
+#loginform input[type="checkbox"] {
+    margin-right: 5px;
+}
+
+/* Submit button */
+#loginform input[type="submit"] {
+    width: 100%;
+    padding: 10px;
+    background-color: #0073aa;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+/* Submit button hover effect */
+#loginform input[type="submit"]:hover {
+    background-color: #005d80;
+}
+
+/* Error message */
+#loginform .login-error {
+    color: #f00;
+    margin-bottom: 10px;
+}
+
+.pmpro_login_wrap hr {
+    display: none;
+}
+
+#pmpro_account {
+    margin: 20px;
+}
+
+.pmpro_box {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 20px;
+    margin-bottom: 20px;
+    background-color: #f9f9f9;
+}
+
+.pmpro_box h2 {
+    margin-top: 0;
+}
+
+.pmpro_table {
+    width: 100%;
+    border-collapse: collapse;
+    padding: 0rem 1rem;
+}
+
+.pmpro_table th,
+.pmpro_table td {
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+    text-align: left;
+}
+
+.pmpro_actionlinks {
+    margin-top: 10px;
+}
+
+.pmpro_actionlinks a {
+    text-decoration: none;
+    color: #0073aa;
+    margin-right: 10px;
+}
+
+.pmpro_actionlinks a:hover {
+    text-decoration: underline;
+}
+
+#pmpro_account h2 {
+    padding: 0rem 1rem !important;
+}
+
+.pmpro_table .pmpro_actionlinks {
+    padding: 0px;
+}
+
+#pmpro_account-profile ul {
+    padding: 0rem 1rem;
+}
+
+#pmpro_account-profile p {
+    padding: 0rem 1rem !important;
+}
+
+.pmpro_actionlinks {
+    padding: 0rem 1rem;
+}
+
+/* 05-03-2024  ends */
+
+@media screen and (max-width:767px) {
+    .dropdown-menu {
+        position: absolute;
+        opacity: 0;
+        top: 100%;
+        background: #000;
+        min-width: 220px !important;
+        left: 50%;
+        transform: translateX(-50%);
+        top: 130%;
+    }
+
+    .users-header #item-header-avatar:hover .link-change-overlay {
+        left: 135px;
+    }
+
+    .dropdown-menu ul.hfe-nav-menu li a {
+        color: #fff;
+        font-size: 12px;
+        padding: 7px 10px !important;
+    }
+
+    .toggle_menu nav.hfe-nav-menu__layout-horizontal.hfe-nav-menu__submenu-arrow.hfe-dropdown {
+        right: 0;
+        white-space: nowrap;
+        left: auto !important;
+    }
+
+    .toggle_menu nav.hfe-nav-menu__layout-horizontal.hfe-nav-menu__submenu-arrow.hfe-dropdown li a {
+        padding: 10px 15px !important;
+    }
+
+    #geodirectory-add-post {
+        padding: 20px;
+    }
+
+    #geodirectory-add-post #logo_row .mx-3.w-100,
+    div#post_images_row .mx-3.w-100 {
+        flex: 0 0 100%;
+        max-width: 100%;
+        margin-top: 20px;
+    }
+
+    #geodirectory-add-post #logo_row,
+    div#post_images_row {
+        justify-content: center;
+    }
+}
+
+.box-shadow {
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
+    padding: 30px;
+}
+
+.price-table {
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
+
+}
+
+.error404 section {
+    max-width: 1150px !important;
+    margin: 148px auto 0 !important;
+    padding: 0 15px;
+}
+
+
+ul.geodir-tab-head.geodir-bestof-cat-list.m-0.mb-3.nav.nav-tabs {
+    display: none;
+}
+
+div#geodir-bestof-places .bestof-cat-title {
+    display: none;
+}
+
+/* .bsui .form-select {
+    display: none;
+} */
+/* 
+.aui-conditional-field {
+    display: none !important;
+} */
+
+
+/* .bsui .bg-light {
+	display: none;} */
+
+/* .bsui button:not(:disabled), .bsui [type="button"]:not(:disabled), .bsui [type="reset"]:not(:disabled), .bsui [type="submit"]:not(:disabled) {
+	display: none;} */
+
+/* .geodir_submit_search btn w-100 btn-primary gd-wait-btnsearch
+ * {
+	display: none;
+} */
+
+.geodir-more-filters customize_filter-in clearfix gd-filter-gd_place collapse {
+    display: none;
+}
+
+
+
+.geodir-filter-container button.geodir_submit_search.btn.w-100.btn-primary {
+    display: none;
+}
+
+
+/* .bsui .bg-light {
+    display: none;
+} */
+
+fieldset#geodir_fieldset_details {
+    margin-top: initial !important;
+}
+
+.justify-content-end.mb-3 {
+    display: none;
+}
+
+h2.geodir-entry-title.h5.text-truncate {
+    display: block;
+}
+
+.card h2 {
+    display: none;
+}
+
+@media screen and (min-width:980px) {
+    .search-results .geodir-wgt-map.bsui.sdel-14111c12 {
+        width: 40%;
+        float: right;
+    }
+}
+
+
+@media (max-width: 1024px) {
+
+    .notifications .bp-wrap,
+    .settings .bp-wrap,
+    .error404 section {
+        max-width: 1150px !important;
+        margin: 84px auto 0 !important;
+        padding: 0 15px;
+    }
+
+    .messages .bp-wrap {
+        max-width: 1150px !important;
+        margin: 107px auto 0 !important;
+        padding: 0 15px;
+    }
+
+    .settings .elementor-2355732 .elementor-element.elementor-element-ae269d8 div.hfe-nav-menu-icon {
+        color: #333;
+    }
+
+    .settings .elementor-2355732 .elementor-element.elementor-element-ae269d8 div.hfe-nav-menu-icon svg {
+        fill: #333333;
+    }
+
+    .notifications .elementor-2355732 .elementor-element.elementor-element-ae269d8 div.hfe-nav-menu-icon {
+        color: #333;
+    }
+
+    .notifications .elementor-2355732 .elementor-element.elementor-element-ae269d8 div.hfe-nav-menu-icon svg {
+        fill: #333333;
+    }
+
+    .change-avatar div#buddypress,
+    .change-cover-image div#buddypress,
+    .profile-edit div#buddypress {
+        margin: 80px auto 0 !important;
+    }
+
+    .page-id-1831703 form#affwp-register-form {
+        margin: 80px auto 0 !important;
+    }
+
+    .change-avatar .elementor-2355732 .elementor-element.elementor-element-ae269d8 div.hfe-nav-menu-icon {
+        color: #333;
+    }
+
+    .change-avatar .elementor-2355732 .elementor-element.elementor-element-ae269d8 div.hfe-nav-menu-icon svg {
+        fill: #333333;
+    }
+
+    .change-cover-image .elementor-2355732 .elementor-element.elementor-element-ae269d8 div.hfe-nav-menu-icon {
+        color: #333;
+    }
+
+    .change-cover-image .elementor-2355732 .elementor-element.elementor-element-ae269d8 div.hfe-nav-menu-icon svg {
+        fill: #333333;
+    }
+
+    .profile-edit .elementor-2355732 .elementor-element.elementor-element-ae269d8 div.hfe-nav-menu-icon {
+        color: #333;
+    }
+
+    .profile-edit .elementor-2355732 .elementor-element.elementor-element-ae269d8 div.hfe-nav-menu-icon svg {
+        fill: #333333;
+    }
+
+    .page-id-1831703 .elementor-2355732 .elementor-element.elementor-element-ae269d8 div.hfe-nav-menu-icon {
+        color: #333;
+    }
+
+    .page-id-1831703 .elementor-2355732 .elementor-element.elementor-element-ae269d8 div.hfe-nav-menu-icon svg {
+        fill: #333333;
+    }
+
+    .messages .elementor-2355732 .elementor-element.elementor-element-ae269d8 div.hfe-nav-menu-icon {
+        color: #333;
+    }
+
+    .messages .elementor-2355732 .elementor-element.elementor-element-ae269d8 div.hfe-nav-menu-icon svg {
+        fill: #333333;
+    }
+
+    .messages .bp-messages-form-header {
+        top: 83px !important;
+        right: 20px !important;
+    }
+
+}
+
+@media screen and (min-width:980px) {
+    .search-results .geodir-wgt-map.bsui.sdel-14111c12 {
+        width: 40%;
+        float: right;
+    }
+}
+
+@media screen and (min-device-width: 767px) and (max-device-width: 980px) {
+    .elementor-2355732 .elementor-element.elementor-element-b3d9e1b {
+        --width: 16%;
+    }
+}
